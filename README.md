@@ -20,7 +20,8 @@ The libraries required can be installed via:
 
 ##### To clone this repository
 
-> `git clone `
+> `git clone https://github.com/reach-the-sky/Pyhton-Keylogger-mail.git
+
 
 
 
