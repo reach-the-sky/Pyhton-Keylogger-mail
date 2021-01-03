@@ -24,7 +24,7 @@ The libraries required can be installed via:
 
 ##### To run the python file in background
 
-> Use keylogger-public.pyw (This extension allows you to run python script in the background).
+> Use keylogger_public.pyw (This extension allows you to run python script in the background).
 
 
 
