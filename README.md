@@ -26,6 +26,5 @@ The libraries required can be installed via:
 
 > Use keylogger_public.pyw (This extension allows you to run python script in the background).
 
-
-
+If you liked my project and appreciate the content I opensource, consider following me on github [🌥](https://github.com/reach-the-sky).
 
